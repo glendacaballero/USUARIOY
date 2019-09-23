@@ -6,7 +6,6 @@ package sv.com.empresa.main;
  * Descripción: Clase encargada de consumir Api Rest y crear un mantenimiento de la clase Productos	  
  * */
 
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
